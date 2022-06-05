@@ -1,0 +1,41 @@
+{
+  "name": "react-redux-toolkit-template",
+  "version": "1.0.0",
+  "description": "redux toolkit tempalte with MUI v5 theme",
+  "keywords": [
+    "mui",
+    "toolkit",
+    "react",
+    "material",
+    "redux"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@emotion/react": "11.5.0",
+    "@emotion/styled": "11.3.0",
+    "@mui/material": "5.0.4",
+    "@reduxjs/toolkit": "1.6.2",
+    "prop-types": "15.7.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-redux": "7.2.5",
+    "react-scripts": "4.0.3",
+    "redux": "4.1.1",
+    "redux-form": "8.3.7"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
